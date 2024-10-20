@@ -696,6 +696,9 @@ body.section-switching.up .animation-block{
 	text-align:center;
 	position:relative;
 }
+.p-table > img{
+	width: 30%;
+}
 .p-table:before{
 	content: ' ';
 	position:absolute;
