@@ -242,6 +242,9 @@ body.border-dark .main-content:after{
 	background-size:cover;
 	background-image:url(../img/bg.jpg);
 }
+.imgMissionVisison{
+	width: 10%;
+}
 .section-main:before {
     content: ' ';
     position: absolute;
